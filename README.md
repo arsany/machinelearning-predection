@@ -1,4 +1,4 @@
-https://app.circleci.com/pipelines/github/arsany/machinelearning-predection
+https://circleci.com/gh/arsany/machinelearning-predection
 
 
 ## Project Overview

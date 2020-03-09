@@ -1,4 +1,4 @@
-https://circleci.com/gh/arsany/machinelearning-predection
+[![CircleCI](https://circleci.com/gh/arsany/machinelearning-predection.svg?style=svg)](https://circleci.com/gh/arsany/machinelearning-predection)
 
 
 ## Project Overview

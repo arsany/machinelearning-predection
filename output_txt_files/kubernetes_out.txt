@@ -1,7 +1,7 @@
 $ ./run_kubernetes.sh
 Error from server (AlreadyExists): pods "machinelearning-predection" already exists
 NAME     READY   STATUS    RESTARTS   AGE
-ml-api   1/1     Running   0          7s
+machinelearning-predection   1/1     Running   0          7s
 Forwarding from 127.0.0.1:8000 -> 80
 Forwarding from [::1]:8000 -> 80
 Handling connection for 8000
